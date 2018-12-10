@@ -3,3 +3,4 @@ Git is free software distribute under the GPL.
 Git has a mutable index called stage.
 Git changes of files.
 test change one.
+test change two.
